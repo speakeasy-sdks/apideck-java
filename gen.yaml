@@ -31,8 +31,8 @@ java:
   companyURL: www.mycompany.com
   githubURL: github.com/owner/repo
   groupID: apideck.ats
-  maxMethodParams: 0
+  maxMethodParams: 4
   ossrhURL: https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/
   projectName: apideck
-  published: true
+  published: false
   repoSubDirectory: .
