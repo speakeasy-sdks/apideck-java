@@ -1,0 +1,15 @@
+# GetJobsResponse
+
+
+## Fields
+
+| Field                                                       | Type                                                        | Required                                                    | Description                                                 | Example                                                     |
+| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| `data`                                                      | List<[Job](../../models/shared/Job.md)>                     | :heavy_check_mark:                                          | N/A                                                         |                                                             |
+| `links`                                                     | [Links](../../models/shared/Links.md)                       | :heavy_minus_sign:                                          | Links to navigate to previous or next pages through the API |                                                             |
+| `meta`                                                      | [Meta](../../models/shared/Meta.md)                         | :heavy_minus_sign:                                          | Response metadata                                           |                                                             |
+| `operation`                                                 | *String*                                                    | :heavy_check_mark:                                          | Operation performed                                         | all                                                         |
+| `resource`                                                  | *String*                                                    | :heavy_check_mark:                                          | Unified API resource name                                   | Jobs                                                        |
+| `service`                                                   | *String*                                                    | :heavy_check_mark:                                          | Apideck ID of service provider                              | lever                                                       |
+| `status`                                                    | *String*                                                    | :heavy_check_mark:                                          | HTTP Response Status                                        | OK                                                          |
+| `statusCode`                                                | *Long*                                                      | :heavy_check_mark:                                          | HTTP Response Status Code                                   | 200                                                         |
