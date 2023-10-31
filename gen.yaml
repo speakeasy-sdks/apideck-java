@@ -1,0 +1,21 @@
+configVersion: 1.0.0
+generation:
+  comments:
+    disableComments: false
+    omitDescriptionIfSummaryPresent: false
+  baseServerURL: ""
+  repoURL: https://github.com/speakeasy-sdks/apideck-python.git
+  sdkClassName: apideck
+  singleTagPerOp: false
+  tagNamespacingDisabled: false
+java:
+  version: 0.0.1
+  artifactID: apideck
+  companyEmail: info@mycompany.com
+  companyName: My Company
+  companyURL: www.mycompany.com
+  githubURL: github.com/owner/repo
+  groupID: apideck.ats
+  maxMethodParams: 0
+  ossrhURL: https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/
+  projectName: apideck
