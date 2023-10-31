@@ -15,19 +15,17 @@ It has been generated successfully based on your OpenAPI spec. However, it is no
 - [ ] 🎁 Publish your SDK to package managers by [configuring automatic publishing](https://www.speakeasyapi.dev/docs/productionize-sdks/publish-sdks)
 - [ ] ✨ When ready to productionize, delete this section from the README
 <!-- Start SDK Installation -->
-# SDK Installation
+## SDK Installation
 
-## Gradle
+### Gradle
 
 ```groovy
-implementation 'apideck.ats.apideck:apideck:0.1.0'
+implementation 'apideck.ats.apideck:apideck:0.2.0'
 ```
 <!-- End SDK Installation -->
 
 ## SDK Example Usage
 <!-- Start SDK Example Usage -->
-
-
 ```java
 package hello.world;
 
@@ -182,11 +180,11 @@ websites = new apideck.ats.apideck.models.shared.ApplicantWebsites[]{{
 <!-- End SDK Example Usage -->
 
 <!-- Start SDK Available Operations -->
-# Available Resources and Operations
+## Available Resources and Operations
 
 
 
-## [ats.applicants](docs/sdks/atsapplicants/README.md)
+### [ats.applicants](docs/sdks/atsapplicants/README.md)
 
 * [add](docs/sdks/atsapplicants/README.md#add) - Create Applicant
 * [all](docs/sdks/atsapplicants/README.md#all) - List Applicants
@@ -194,7 +192,7 @@ websites = new apideck.ats.apideck.models.shared.ApplicantWebsites[]{{
 * [one](docs/sdks/atsapplicants/README.md#one) - Get Applicant
 * [update](docs/sdks/atsapplicants/README.md#update) - Update Applicant
 
-## [ats.applications](docs/sdks/atsapplications/README.md)
+### [ats.applications](docs/sdks/atsapplications/README.md)
 
 * [add](docs/sdks/atsapplications/README.md#add) - Create Application
 * [all](docs/sdks/atsapplications/README.md#all) - List Applications
@@ -202,15 +200,13 @@ websites = new apideck.ats.apideck.models.shared.ApplicantWebsites[]{{
 * [one](docs/sdks/atsapplications/README.md#one) - Get Application
 * [update](docs/sdks/atsapplications/README.md#update) - Update Application
 
-## [ats.jobs](docs/sdks/atsjobs/README.md)
+### [ats.jobs](docs/sdks/atsjobs/README.md)
 
 * [all](docs/sdks/atsjobs/README.md#all) - List Jobs
 * [one](docs/sdks/atsjobs/README.md#one) - Get Job
 <!-- End SDK Available Operations -->
 
 <!-- Start Dev Containers -->
-
-
 
 <!-- End Dev Containers -->
 

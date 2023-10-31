@@ -24,7 +24,7 @@ features:
     inputOutputModels: 2.81.1
     nameOverrides: 2.81.1
 java:
-  version: 0.1.0
+  version: 0.2.0
   artifactID: apideck
   companyEmail: info@mycompany.com
   companyName: My Company
@@ -34,5 +34,5 @@ java:
   maxMethodParams: 4
   ossrhURL: https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/
   projectName: apideck
-  published: false
+  published: true
   repoSubDirectory: .
