@@ -36,3 +36,4 @@ java:
   projectName: apideck
   published: true
   repoSubDirectory: .
+  templateVersion: v2
