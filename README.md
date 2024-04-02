@@ -19,13 +19,11 @@ It has been generated successfully based on your OpenAPI spec. However, it is no
 
 ### Getting started
 
-Speakeasy offers [automatic publishing](https://www.speakeasyapi.dev/docs/advanced-setup/publish-sdks) of SDK artifacts via GitHub Actions. 
-
-Once published to a repository (local or otherwise), the SDK artifact is used as below:
+The samples below show how a published SDK artifact is used:
 
 Gradle:
 ```groovy
-implementation 'apideck.ats.apideck:apideck:0.3.0'
+implementation 'apideck.ats.apideck:apideck:0.3.1'
 ```
 
 Maven:
@@ -33,7 +31,7 @@ Maven:
 <dependency>
     <groupId>apideck.ats.apideck</groupId>
     <artifactId>apideck</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.1</version>
 </dependency>
 ```
 

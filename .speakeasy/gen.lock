@@ -3,17 +3,17 @@ id: f97e0ef8-ffeb-4da5-acf3-601870059941
 management:
   docChecksum: 6c21740586dc70857c66f118af034616
   docVersion: 9.9.2
-  speakeasyVersion: 1.228.1
-  generationVersion: 2.292.0
-  releaseVersion: 0.3.0
-  configChecksum: 0667442745b8081645dbf83ce92d9ce1
+  speakeasyVersion: 1.231.1
+  generationVersion: 2.295.1
+  releaseVersion: 0.3.1
+  configChecksum: 3f08e7cc720087b9232027bb27a4d99c
   repoURL: https://github.com/speakeasy-sdks/apideck-java.git
   repoSubDirectory: .
   published: true
 features:
   java:
     constsAndDefaults: 0.1.1
-    core: 3.16.2
+    core: 3.16.3
     deprecations: 2.81.1
     examples: 2.81.3
     globalSecurity: 2.82.5

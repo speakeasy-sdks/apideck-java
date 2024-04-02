@@ -64,7 +64,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'apideck.ats'
             artifactId = 'apideck'
-            version = '0.3.0'
+            version = '0.3.1'
 
             from components.java
 

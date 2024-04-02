@@ -11,7 +11,7 @@ generation:
     oAuth2ClientCredentialsEnabled: false
   baseServerURL: ""
 java:
-  version: 0.3.0
+  version: 0.3.1
   additionalDependencies: []
   artifactID: apideck
   companyEmail: info@mycompany.com
